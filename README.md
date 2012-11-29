@@ -32,7 +32,7 @@ The test framework is written in Perl and requires the following packages:
 
 ## License
 
-Refer to [LICENSE.txt](./LICENSE.txt "LICENSE.txt")
+Refer to [LICENSE.txt](./Echo/blob/master/LICENSE.txt "LICENSE.txt")
 
 ## Authors
 
