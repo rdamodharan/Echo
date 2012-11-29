@@ -159,8 +159,8 @@ Echo::DnsMapper - Generate DNS mappings to map Origin servers to Echo servers
     # Site-Origin mapping
     my $sites = {
         # Site => [ list of origins ]
-        'foo1.yahoo.com' => [ qw(origin1.yahoo.com origin2.yahoo.com) ],
-        'foo2.yahoo.com' => [ qw(origin2.yahoo.com origin3.yahoo.com) ],
+        'foo1.site.com' => [ qw(origin1.site.com origin2.site.com) ],
+        'foo2.site.com' => [ qw(origin2.site.com origin3.site.com) ],
     };
     # List of echo servers
     my $echo_servers = [ qw(echo1 echo2 echo3) ];

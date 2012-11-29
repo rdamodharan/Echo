@@ -128,15 +128,15 @@ gen-dnsmap.pl --sites|s=site_origin_file --calculate|c
 YAML file file containing Site-Origin mapping. A sample file:
 
     ---
-    foo1.yahoo.com:
-      - orig1.yahoo.com
-      - orig2.yahoo.com
-    foo2.yahoo.com:
-      - orig3.yahoo.com  
-      - orig2.yahoo.com
+    foo1.site.com:
+      - orig1.site.com
+      - orig2.site.com
+    foo2.site.com:
+      - orig3.site.com  
+      - orig2.site.com
 
-In the above YAML file we have two Sites (foo1.yahoo.com and
-foo2.yahoo.com) which can be proxied to one of the origin servers listed
+In the above YAML file we have two Sites (foo1.site.com and
+foo2.site.com) which can be proxied to one of the origin servers listed
 under them depending on the rules in the proxy server
 
 =item B<--echoservers|e>=filename
