@@ -1,17 +1,11 @@
 #!/usr/bin/env perl
-# Copyright(c) 2012 Yahoo! Inc. All rights reserved. 
-# 
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-# 
-#     http://www.apache.org/licenses/LICENSE-2.0
-# 
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License. See accompanying LICENSE file. 
+#
+# Copyright (c) 2012, Yahoo! Inc. All rights reserved.
+#
+# This program is free software. You may copy or redistribute it under
+# the same terms as Perl itself. Please see the LICENSE.txt file included
+# with this project for the terms of the Artistic License under which this
+# project is licensed.
 #
 # Author(s): Damodharan Rajalingam (damu@yahoo-inc.com)
 #            Soumya Deb (soumyad@yahoo-inc.com)

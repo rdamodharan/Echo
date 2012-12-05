@@ -1,6 +1,0 @@
-This is a simple socket server which can be used to capture HTTP
-requests. This is a core component used in ECHO Proxy Server testing
-framework[1]. Point a client to the Echo server and do a HTTP request
-the reply will be the HTTP request received by the echo server. This is
-helpful to know the actual request and can be used for testing.
-
