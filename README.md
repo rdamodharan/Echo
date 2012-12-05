@@ -32,6 +32,7 @@ The test framework is written in Perl and requires the following packages:
 
 ## License
 
+This software is licensed under the Artistic License.
 Refer to [LICENSE.txt](./Echo/blob/master/LICENSE.txt "LICENSE.txt")
 
 ## Authors
